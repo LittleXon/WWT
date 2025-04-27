@@ -29,14 +29,20 @@ const About = () => {
       
       <div id="about" className="max-w-[85rem] px-4 py-0 sm:py-10 mx-auto flex flex-col items-center justify-center">
         <div className="mb-4 text-center">  {/* Réduit my-7 à mb-4 */}
-          <h2 className="font-stopbuck text-4xl text-duis text-shadow my-20 mt-20"> About Us - $WWT 💥</h2>
-          <h3 className="font-stopbuck text-2xl italic text-black mt-6">  {/* Réduit mt-14 à mt-6 */}
-            {`Welcome to LittleX, the wildest memecoin on Solana! 🤪 Inspired by the x Musk, LittleX is here to dominate the meme game. Trump’s bowing down to the meme lord, the internet’s losing its mind, and we’re all here for it!
+          <h2 className="font-stopbuck text-4xl text-duis text-shadow my-15 mt-20"> 💣🔥 WWT — WORLD WAR THREE 🔥💣 </h2>
+          <h3 className="font-stopbuck text-2xl italic text-black mt-6 whitespace-pre-wrap">
+            {`😈 Putin. 💥 Kim Jong Un. 🦅 Trump. 
 
-We’re talking 1000x potential, degens only, LFG vibes, and HODLers dancing to the moon. Forget the FUD, forget the rules. This is LittleX. We’re breaking the internet. Are you in, degen? 🚀🔥
+          No peace ✌️. Only nukes ☢️, tanks 🪖 & toxic memes 🤡.
+          🌍🔥 The world burns — we profit 💸.
 
-LFG!! 🤑📈`}
+          No roadmap 🗺️. No promises 🤝. Just pure chaos 🧨.
+          💥 Buy the dip.                 
+          💥 Pray for moon.         
+          💥 Enjoy the carnage.
+          💀 WWT — If the world ends, WE ALL WIN 🏆.`}
           </h3>
+          
         </div>
         <div className="flex justify-center items-center w-full mb-6">  {/* Ajout de mb-6 */}
           <Image
