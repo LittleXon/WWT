@@ -3,21 +3,21 @@ import LinkCardCircle from "@/components/LinkCardCircle";
 
 const cards = [
   {
-    link: "https://t.me/+8-7Y8lzixSA5YWRk",
+    link: "",
     title: "telegram",
     icon: "Telegram",
   },
   {
 
     
-    link: "https://x.com/littlexsolana?s=21",
+    link: "",
     title: "x",
     icon: "X",
   },
 
 
   {
-    link: "https://www.tiktok.com/@littlexsolana?_t=ZN-8utVdqtD4Tu&_r=1",
+    link: "",
     title: "Tiktok",
     icon: "Tiktok",
   },

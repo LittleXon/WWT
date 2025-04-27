@@ -3,7 +3,7 @@ import Card from "@/components/Card";
 
 const cards = [
   {
-    img: "toke.webp",
+    img: "token.webp",
     title: "Max Supply",
     desc: "1.000.000.000",
   },

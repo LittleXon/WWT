@@ -67,3 +67,35 @@ body {
 .bg-\[\#e4e0e1\] {
   --tw-bg-opacity: 80%
 }
+
+.hover\:bg-white:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(253 255 0);
+}
+
+.hover\:text-red-600:hover {
+  --tw-text-opacity: 1;
+  color: rgb(255 120 0);
+  -webkit-text-stroke: 0.3px black;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0);
+}
+
+.bg-red-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 245 0);
+}
+
+.bg-red-600:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 245 0);
+}
+
+
+.hover\:bg-white:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 245 0);
+}

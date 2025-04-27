@@ -64,9 +64,13 @@ const Nav = () => {
 
         {/* Buy Button */}
         <div className="lg:flex lg:flex-1 lg:justify-end">
-        <a href="" target="_blank" className="transition duration-200 font-stopbuck text-lg sm:text-2xl rounded-xl px-3.5 py-2.5 font-medium text-white shadow-2xl bg-red-600 hover:bg-white hover:text-red-600 hover:outline-red-600 outline outline-2 outline-offset-0" >
-          Buy $WWT
-        </a>
+        <a href="" 
+   target="_blank" 
+   className="transition duration-200 font-stopbuck text-lg sm:text-2xl rounded-xl px-3.5 py-2.5 font-medium text-white shadow-2xl bg-red-600 hover:bg-orange-600 hover:text-yellow-300 hover:outline-black outline outline-2 outline-offset-0"
+   style={{ WebkitTextStroke: '0.4px black' }}>
+  Buy $WWT
+</a>
+
         </div>
       </div>
     </nav>

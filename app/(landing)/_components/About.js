@@ -28,19 +28,19 @@ const About = () => {
       </div>
       
       <div id="about" className="max-w-[85rem] px-4 py-0 sm:py-10 mx-auto flex flex-col items-center justify-center">
-        <div className="mb-4 text-center">  {/* Réduit my-7 à mb-4 */}
-          <h2 className="font-stopbuck text-4xl text-duis text-shadow my-15 mt-20"> 💣🔥 WWT — WORLD WAR THREE 🔥💣 </h2>
-          <h3 className="font-stopbuck text-2xl italic text-black mt-6 whitespace-pre-wrap">
+        <div className="mb-8 text-center">  {/* Réduit my-7 à mb-4 */}
+          <h2 className="font-stopbuck text-4xl text-duis text-shadow my-10 mt-40"> 💣🔥 WWT — WORLD WAR THREE 🔥💣 </h2>
+          <h3 className="font-stopbuck text-xl italic text-black mt-6 whitespace-pre-wrap">
             {`😈 Putin. 💥 Kim Jong Un. 🦅 Trump. 
 
           No peace ✌️. Only nukes ☢️, tanks 🪖 & toxic memes 🤡.
-          🌍🔥 The world burns — we profit 💸.
+🌍🔥The world burns — we profit 💸.
 
           No roadmap 🗺️. No promises 🤝. Just pure chaos 🧨.
           💥 Buy the dip.                 
           💥 Pray for moon.         
           💥 Enjoy the carnage.
-          💀 WWT — If the world ends, WE ALL WIN 🏆.`}
+💀 WWT — If the world ends, WE ALL WIN 🏆.`}
           </h3>
           
         </div>
